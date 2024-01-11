@@ -35,3 +35,11 @@
 | :--------------------------------------------: | :--------------------------------------: | :------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------: | :------------------------------------: |
 |     ![박태흠](./media/portrait/박태흠.png)     |  ![김두현](./media/portrait/김두현.png)  | ![박기택](./media/portrait/박기택.png) | <img height="128px" width="110px" src="./media/portrait/이대건.jpg"> | ![조영헌](./media/portrait/조영헌.png)  | ![김영인](./media/portrait/김영인.png) |
 |                 Android<br>PM                  |                 Android                  |                Android                 |                            Backend<br>AI                             |              Backend<br>AI              |            Backend<br>Infra            |
+
+## 구글 플레이스토어 배포
+
+<img src="media/구글플레이스토어.jpeg">
+
+[구글플레이스토어 바로가기](https://play.google.com/store/apps/details?id=io.b101.picashow&pli=1)
+
+현재는 서비스하지 않습니다.
