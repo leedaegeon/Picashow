@@ -34,7 +34,7 @@
 | [박태흠(팀장)](https://github.com/TaeHeumPark) | [김두현](https://github.com/Duhyeon2Kim) |  [박기택](https://github.com/taekto)   |               [이대건](https://github.com/leedaegeon)                | [조영헌](https://github.com/marine-doe) |  [김영인](https://github.com/poiu542)  |
 | :--------------------------------------------: | :--------------------------------------: | :------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------: | :------------------------------------: |
 |     ![박태흠](./media/portrait/박태흠.png)     |  ![김두현](./media/portrait/김두현.png)  | ![박기택](./media/portrait/박기택.png) | <img height="128px" width="110px" src="./media/portrait/이대건.jpg"> | ![조영헌](./media/portrait/조영헌.png)  | ![김영인](./media/portrait/김영인.png) |
-|                 Android<br>PM                  |                 Android                  |                Android                 |                            Backend<br>AI                             |              Backend<br>AI              |            Backend<br>Infra            |
+|                 Android<br>PM                  |                 Android                  |                Android                 |                            Backend<br>Infra                             |              Backend<br>AI              |            Backend<br>Infra            |
 
 ## 구글 플레이스토어 배포
 
